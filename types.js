@@ -1,0 +1,13 @@
+var myString;
+var myNum;
+myString = "Hello World";
+myNum = 22;
+var arry;
+var num;
+var strnumTuple;
+strnumTuple = ["hello", 4];
+var yup;
+yup = ["kuku", "World"];
+arry = ["Hello", "World"];
+num = [1, 2, 3];
+console.log(strnumTuple);
